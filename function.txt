@@ -1,0 +1,25 @@
+what is function?
+it is reusable block of code where we can use it when ever we want by calling it by return
+
+function syntax
+function functionName() {
+    // code
+}
+
+functionName();
+
+types of function
+[1] named function
+[2] function expression
+[3] anynonomus function
+[5] arrow function
+[6] higherorder function
+[7] callback function
+ 
+
+ [1]name function:a namd function is function that having a name  whenever we want to use that function we use that name to call that function
+
+ syntax: function greet(){
+    console.log()
+ }
+ greet()
